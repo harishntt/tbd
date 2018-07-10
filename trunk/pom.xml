@@ -7,8 +7,8 @@
  
   
   <scm>
-  <connection>scm:svn:file:///C:/SCM/svn_repo/my-app/trunk </connection>
-  <developerConnection>scm:svn:file:///C:/SCM/svn_repo/my-app/trunk </developerConnection>
+	  <connection>scm:git:https://github.com/harishntt/tbd/trunk </connection>
+	  <developerConnection>scm:git:https://github.com/harishntt/tbd/trunk </developerConnection>
   </scm>
   
   <dependencies>
